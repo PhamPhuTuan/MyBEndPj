@@ -39,6 +39,7 @@
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
     "ms": "^2.0.0",
+    "mysql2": "2.3.0",
     "negotiator": "^0.6.3",
     "nodemon": "2.0.12",
     "on-finished": "^2.3.0",
